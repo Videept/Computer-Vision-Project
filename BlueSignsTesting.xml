@@ -1,0 +1,1341 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<AnnotatedImages>
+  <name>"Blue Signs/Testing"</name>
+  <ImagesAndObjects>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue001.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              128 0</_>
+            <_>
+              128 122</_>
+            <_>
+              0 122</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue002.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              14 0</_>
+            <_>
+              14 40</_>
+            <_>
+              0 40</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              18 0</_>
+            <_>
+              18 43</_>
+            <_>
+              0 43</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              18 0</_>
+            <_>
+              18 38</_>
+            <_>
+              0 38</_></coordinates></_>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              28 0</_>
+            <_>
+              28 40</_>
+            <_>
+              0 40</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              29 0</_>
+            <_>
+              29 41</_>
+            <_>
+              0 41</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              30 0</_>
+            <_>
+              30 40</_>
+            <_>
+              0 40</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              39 0</_>
+            <_>
+              39 26</_>
+            <_>
+              0 26</_></coordinates></_>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              118 0</_>
+            <_>
+              118 121</_>
+            <_>
+              0 121</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue003.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Exit</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              108 0</_>
+            <_>
+              108 110</_>
+            <_>
+              0 110</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue004.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              319 0</_>
+            <_>
+              319 239</_>
+            <_>
+              0 239</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              49 0</_>
+            <_>
+              49 48</_>
+            <_>
+              0 48</_></coordinates></_>
+        <_>
+          <nameStr>Exit</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              48 0</_>
+            <_>
+              48 48</_>
+            <_>
+              0 48</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              33 0</_>
+            <_>
+              33 36</_>
+            <_>
+              0 36</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              26 0</_>
+            <_>
+              26 115</_>
+            <_>
+              0 115</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue005.jpg"</Filename>
+      <Objects>
+        </Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue007.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Stairs</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              78 0</_>
+            <_>
+              78 78</_>
+            <_>
+              0 78</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              60 0</_>
+            <_>
+              60 185</_>
+            <_>
+              0 185</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue008.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              56 0</_>
+            <_>
+              56 87</_>
+            <_>
+              0 87</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              39 0</_>
+            <_>
+              39 40</_>
+            <_>
+              0 40</_></coordinates></_>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              273 0</_>
+            <_>
+              273 116</_>
+            <_>
+              0 116</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              27 0</_>
+            <_>
+              27 140</_>
+            <_>
+              0 140</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              93 0</_>
+            <_>
+              93 135</_>
+            <_>
+              0 135</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              13 0</_>
+            <_>
+              13 141</_>
+            <_>
+              0 141</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue011.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              52 0</_>
+            <_>
+              52 54</_>
+            <_>
+              0 54</_></coordinates></_>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              62 0</_>
+            <_>
+              62 60</_>
+            <_>
+              0 60</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue012.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              87 0</_>
+            <_>
+              87 17</_>
+            <_>
+              0 17</_></coordinates></_>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              237 0</_>
+            <_>
+              237 19</_>
+            <_>
+              0 19</_></coordinates></_>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              46 0</_>
+            <_>
+              46 257</_>
+            <_>
+              0 257</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              67 0</_>
+            <_>
+              67 63</_>
+            <_>
+              0 63</_></coordinates></_>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              135 0</_>
+            <_>
+              135 144</_>
+            <_>
+              0 144</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue016.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              44 0</_>
+            <_>
+              44 59</_>
+            <_>
+              0 59</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue017.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              995 0</_>
+            <_>
+              995 749</_>
+            <_>
+              0 749</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue018.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              33 0</_>
+            <_>
+              33 45</_>
+            <_>
+              0 45</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              11 0</_>
+            <_>
+              11 48</_>
+            <_>
+              0 48</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              5 0</_>
+            <_>
+              5 89</_>
+            <_>
+              0 89</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              11 0</_>
+            <_>
+              11 72</_>
+            <_>
+              0 72</_></coordinates></_>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              16 0</_>
+            <_>
+              16 47</_>
+            <_>
+              0 47</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              10 0</_>
+            <_>
+              10 74</_>
+            <_>
+              0 74</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              87 0</_>
+            <_>
+              87 82</_>
+            <_>
+              0 82</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue019.jpg"</Filename>
+      <Objects>
+        </Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue020.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              114 0</_>
+            <_>
+              114 79</_>
+            <_>
+              0 79</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              39 0</_>
+            <_>
+              39 147</_>
+            <_>
+              0 147</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue021.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              51 0</_>
+            <_>
+              51 51</_>
+            <_>
+              0 51</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue023.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              84 0</_>
+            <_>
+              84 280</_>
+            <_>
+              0 280</_></coordinates></_>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              97 0</_>
+            <_>
+              97 620</_>
+            <_>
+              0 620</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue025.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              123 0</_>
+            <_>
+              123 171</_>
+            <_>
+              0 171</_></coordinates></_>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              70 0</_>
+            <_>
+              70 75</_>
+            <_>
+              0 75</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue028.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              48 0</_>
+            <_>
+              48 69</_>
+            <_>
+              0 69</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue030.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              179 0</_>
+            <_>
+              179 26</_>
+            <_>
+              0 26</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              67 0</_>
+            <_>
+              67 77</_>
+            <_>
+              0 77</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              12 0</_>
+            <_>
+              12 91</_>
+            <_>
+              0 91</_></coordinates></_>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              6 0</_>
+            <_>
+              6 95</_>
+            <_>
+              0 95</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              68 0</_>
+            <_>
+              68 75</_>
+            <_>
+              0 75</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              26 0</_>
+            <_>
+              26 33</_>
+            <_>
+              0 33</_></coordinates></_>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              45 0</_>
+            <_>
+              45 43</_>
+            <_>
+              0 43</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              46 0</_>
+            <_>
+              46 43</_>
+            <_>
+              0 43</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              80 0</_>
+            <_>
+              80 79</_>
+            <_>
+              0 79</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              79 0</_>
+            <_>
+              79 81</_>
+            <_>
+              0 81</_></coordinates></_>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              81 0</_>
+            <_>
+              81 80</_>
+            <_>
+              0 80</_></coordinates></_>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              83 0</_>
+            <_>
+              83 81</_>
+            <_>
+              0 81</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              999 0</_>
+            <_>
+              999 533</_>
+            <_>
+              0 533</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue034.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              88 0</_>
+            <_>
+              88 26</_>
+            <_>
+              0 26</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              177 0</_>
+            <_>
+              177 16</_>
+            <_>
+              0 16</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              230 0</_>
+            <_>
+              230 23</_>
+            <_>
+              0 23</_></coordinates></_>
+        <_>
+          <nameStr>Ladies</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              55 0</_>
+            <_>
+              55 54</_>
+            <_>
+              0 54</_></coordinates></_>
+        <_>
+          <nameStr>Gents</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              55 0</_>
+            <_>
+              55 55</_>
+            <_>
+              0 55</_></coordinates></_>
+        <_>
+          <nameStr>Coffee</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              57 0</_>
+            <_>
+              57 56</_>
+            <_>
+              0 56</_></coordinates></_>
+        <_>
+          <nameStr>Two</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              59 0</_>
+            <_>
+              59 57</_>
+            <_>
+              0 57</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue035.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Disabled</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              57 0</_>
+            <_>
+              57 56</_>
+            <_>
+              0 56</_></coordinates></_>
+        <_>
+          <nameStr>Gents</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              43 0</_>
+            <_>
+              43 42</_>
+            <_>
+              0 42</_></coordinates></_>
+        <_>
+          <nameStr>Ladies</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              44 0</_>
+            <_>
+              44 42</_>
+            <_>
+              0 42</_></coordinates></_>
+        <_>
+          <nameStr>Coffee</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              45 0</_>
+            <_>
+              45 43</_>
+            <_>
+              0 43</_></coordinates></_>
+        <_>
+          <nameStr>Two</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              48 0</_>
+            <_>
+              48 44</_>
+            <_>
+              0 44</_></coordinates></_>
+        <_>
+          <nameStr>TicketDesk</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              999 0</_>
+            <_>
+              999 733</_>
+            <_>
+              0 733</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue036.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              21 0</_>
+            <_>
+              21 36</_>
+            <_>
+              0 36</_></coordinates></_>
+        <_>
+          <nameStr>Disabled</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              23 0</_>
+            <_>
+              23 24</_>
+            <_>
+              0 24</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              56 0</_>
+            <_>
+              56 57</_>
+            <_>
+              0 57</_></coordinates></_>
+        <_>
+          <nameStr>Stairs</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              56 0</_>
+            <_>
+              56 57</_>
+            <_>
+              0 57</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              184 0</_>
+            <_>
+              184 189</_>
+            <_>
+              0 189</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue037.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Ladies</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              32 0</_>
+            <_>
+              32 32</_>
+            <_>
+              0 32</_></coordinates></_>
+        <_>
+          <nameStr>Gents</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              31 0</_>
+            <_>
+              31 31</_>
+            <_>
+              0 31</_></coordinates></_>
+        <_>
+          <nameStr>Coffee</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              32 0</_>
+            <_>
+              32 31</_>
+            <_>
+              0 31</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              919 0</_>
+            <_>
+              919 749</_>
+            <_>
+              0 749</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue038.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              153 0</_>
+            <_>
+              153 18</_>
+            <_>
+              0 18</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              778 0</_>
+            <_>
+              778 111</_>
+            <_>
+              0 111</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              10 0</_>
+            <_>
+              10 48</_>
+            <_>
+              0 48</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              156 0</_>
+            <_>
+              156 21</_>
+            <_>
+              0 21</_></coordinates></_>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              134 0</_>
+            <_>
+              134 94</_>
+            <_>
+              0 94</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue042.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              61 0</_>
+            <_>
+              61 61</_>
+            <_>
+              0 61</_></coordinates></_>
+        <_>
+          <nameStr>Two</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              61 0</_>
+            <_>
+              61 61</_>
+            <_>
+              0 61</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              97 0</_>
+            <_>
+              97 98</_>
+            <_>
+              0 98</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue043.jpg"</Filename>
+      <Objects>
+        </Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue044.jpg"</Filename>
+      <Objects>
+        </Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue045.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              15 0</_>
+            <_>
+              15 37</_>
+            <_>
+              0 37</_></coordinates></_>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              110 0</_>
+            <_>
+              110 27</_>
+            <_>
+              0 27</_></coordinates></_>
+        <_>
+          <nameStr>Disabled</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              83 0</_>
+            <_>
+              83 112</_>
+            <_>
+              0 112</_></coordinates></_>
+        <_>
+          <nameStr>Information</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              96 0</_>
+            <_>
+              96 124</_>
+            <_>
+              0 124</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              113 0</_>
+            <_>
+              113 139</_>
+            <_>
+              0 139</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue046.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Coffee</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              104 0</_>
+            <_>
+              104 86</_>
+            <_>
+              0 86</_></coordinates></_>
+        <_>
+          <nameStr>Gents</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              98 0</_>
+            <_>
+              98 86</_>
+            <_>
+              0 86</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              103 0</_>
+            <_>
+              103 86</_>
+            <_>
+              0 86</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue047.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Exit</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              194 0</_>
+            <_>
+              194 192</_>
+            <_>
+              0 192</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              178 0</_>
+            <_>
+              178 184</_>
+            <_>
+              0 184</_></coordinates></_>
+        <_>
+          <nameStr>Stairs</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              219 0</_>
+            <_>
+              219 202</_>
+            <_>
+              0 202</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue048.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              282 0</_>
+            <_>
+              282 104</_>
+            <_>
+              0 104</_></coordinates></_>
+        <_>
+          <nameStr>Disabled</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              40 0</_>
+            <_>
+              40 41</_>
+            <_>
+              0 41</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue050.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              22 0</_>
+            <_>
+              22 122</_>
+            <_>
+              0 122</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              100 0</_>
+            <_>
+              100 89</_>
+            <_>
+              0 89</_></coordinates></_>
+        <_>
+          <nameStr>Coffee</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              100 0</_>
+            <_>
+              100 93</_>
+            <_>
+              0 93</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              103 0</_>
+            <_>
+              103 97</_>
+            <_>
+              0 97</_></coordinates></_>
+        <_>
+          <nameStr>Unknown</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              116 0</_>
+            <_>
+              116 101</_>
+            <_>
+              0 101</_></coordinates></_></Objects></_>
+    <_>
+      <Filename>"Blue Signs/Testing/Blue051.jpg"</Filename>
+      <Objects>
+        <_>
+          <nameStr>Exit</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              64 0</_>
+            <_>
+              64 66</_>
+            <_>
+              0 66</_></coordinates></_>
+        <_>
+          <nameStr>One</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              66 0</_>
+            <_>
+              66 68</_>
+            <_>
+              0 68</_></coordinates></_>
+        <_>
+          <nameStr>Escalator</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              71 0</_>
+            <_>
+              71 70</_>
+            <_>
+              0 70</_></coordinates></_>
+        <_>
+          <nameStr>Lift</nameStr>
+          <coordinates>
+            <_>
+              0 0</_>
+            <_>
+              71 0</_>
+            <_>
+              71 68</_>
+            <_>
+              0 68</_></coordinates></_></Objects></_></ImagesAndObjects></AnnotatedImages>
+</opencv_storage>
